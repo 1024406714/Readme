@@ -1,11 +1,11 @@
 # Readme
-Readme
-这里是曹晨冰的Readme。
-This is Sunner’s Readme.
-Voilà le Readme de Sunner.
-下面是我们小组的作品介绍
-It's the work’s presentation of our organization.
-C’est la présentation du travail de notre organisation.
+Readme<\n>
+这里是曹晨冰的Readme。<\n>
+This is Sunner’s Readme.<\n>
+Voilà le Readme de Sunner.<\n>
+下面是我们小组的作品介绍<\n>
+It's the work’s presentation of our organization.<\n>
+C’est la présentation du travail de notre organisation.<\n>
 # 作品介绍 #
 ## 1.项目基本介绍 ##
 ### 项目名：长大失物招领平台 ###
